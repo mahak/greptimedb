@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["candidate","ctx","procedure"],"type":["Peer2Regions","Region2Peers"]};
