@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["candidate","ctx","dropped","handler","options","procedure","scheduler","tracker","util"],"struct":["BatchGcProcedure","GcSchedulerOptions"],"type":["Peer2Regions","Region2Peers"]};
