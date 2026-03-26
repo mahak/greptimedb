@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Error"],"struct":["DatabaseSnafu","ManifestVersionMismatchSnafu","SchemaNotInSnapshotSnafu","SnapshotNotFoundSnafu","SnapshotStorageSnafu"],"type":["Result"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["ddl_path_for_schema","encode_path_segment","hex_char"]};
